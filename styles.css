@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .random-images-container {
+    display: flex;
+  }
+  
+  img {
+    width: 200px; /* Adjust as needed */
+    height: auto;
+    margin: 10px;
+  }
+  
